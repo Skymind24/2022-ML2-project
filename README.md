@@ -1,4 +1,4 @@
-# <p align="center">Eye Disease Diagnosis Program Using Semi-Supervised Learning</p>
+# <p align="center">Eye Disease Diagnosis Program <br/> Using Semi-Supervised Learning</p>
 
 ## :pushpin: Abstract
 We built an artificial intelligence program that can diagnose eye diseases using human eye data that can be observed with the naked eye. To compensate for the limitation of the absolute lack of data specifying the presence or absence of a disease or its name, we conducted semi-supervised learning using a large number of unlabeled data (UD). And we analyzed the performance difference with a supervised learning model using existing labeled data to observe the effectiveness of using the technique.
